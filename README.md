@@ -6,21 +6,25 @@ Using different languages for each challenge I am trying to explore languages st
 
 #### Day 1: Calorie Counting
 ```
-bash 1_calories/calories.sh
+bash 01_calories/calories.sh
 ```
 #### Day 2: Rock Paper Scissors
 ```
-nim c -r 2_rock_paper_scissors/rockPaperScissors.nim
+nim c -r 02_rock_paper_scissors/rockPaperScissors.nim
 ```
 #### Day 3: Rucksack Reorganization
 ```
-python3 3_rucksack_reorganization/rucksack_reorganization.py
+python3 03_rucksack_reorganization/rucksack_reorganization.py
 ```
 #### Day 4: Camp Cleanup
 ```
-ruby 4_camp_cleanup/camp_cleanup.rb
+ruby 04_camp_cleanup/camp_cleanup.rb
 ```
 #### Day 5: Supply Stacks
 ```
-lua 5_supply_stacks/supply_stacks.lua
+lua 05_supply_stacks/supply_stacks.lua
+```
+#### Day 6: Supply Stacks
+```
+perl 06_tuning_trouble/tuning_trouble.pl
 ```
